@@ -3,4 +3,4 @@
 evaluacion practica programación OOP
 
 Samuel Tous
-David Nieto
+/nDavid Nieto
